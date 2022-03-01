@@ -1,0 +1,365 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The fathers good counsel to his lascivious son. Or A caveat against vvenching the proverb old does tell us all you know, as crowes the old cock so the young doth crow, the father does chastize the son for sin, and quite forgets what vice himself liv'd in. The son reflects, pray sir leave off the game, and I'le endeavour for to do the same; the old man hearing this with shame amends: the young one does so too, and both are friends. Tune of, The delights of the bottle.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03436</idno>
+            <idno type="STC">Wing F554</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.8[166]</idno>
+            <idno type="EEBO-CITATION">99887699</idno>
+            <idno type="PROQUEST">ocm99887699</idno>
+            <idno type="VID">183345</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03436)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183345)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:2[136])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The fathers good counsel to his lascivious son. Or A caveat against vvenching the proverb old does tell us all you know, as crowes the old cock so the young doth crow, the father does chastize the son for sin, and quite forgets what vice himself liv'd in. The son reflects, pray sir leave off the game, and I'le endeavour for to do the same; the old man hearing this with shame amends: the young one does so too, and both are friends. Tune of, The delights of the bottle.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcuts).  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1670?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Verse: "Come son, you are young, yet I oft have been told ..."</note>
+                  <note>Trimmed.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb n="166" facs="tcp:183345:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 4 -->
+            <head>The Fathers good Counſel to his Laſcivious Son.</head>
+            <head type="sub">OR A Caveat againſt Wenching</head>
+            <argument>
+               <l>The Proverb old does tell us all you know,</l>
+               <l>As crowes the old Cock ſo the young doth crow,</l>
+               <l>The Father does chaſtize the Son for ſin,</l>
+               <l>And quite forgets what vice himſelf liv'd in.</l>
+               <l>The Son reflects, pray Sir leave off the Game,</l>
+               <l>And I'le endeavour for to do the ſame;</l>
+               <l>The Old Man hearing this with ſhame amends:</l>
+               <l>The Young one does ſo too, and both are friends.</l>
+            </argument>
+            <opener>Tune of, <hi>The delights of the bottle.</hi>
+            </opener>
+            <p>
+               <figure/>
+               <figure/>
+               <figure/>
+            </p>
+            <sp>
+               <speaker>Father.</speaker>
+               <lg>
+                  <l>COme Son, you are young, yet I oft have been told</l>
+                  <l>That in wenching &amp; drinking you'r deſperate bold</l>
+                  <l>In running theſe courſes you Ruine will find,</l>
+                  <l>And troubles create in your old Father's mind:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Give over betimes then before 'tis too late,</hi>
+                     </l>
+                     <l>
+                        <hi>And I'le ſtrive for to get you a handſom young Mate.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Son.</speaker>
+               <lg>
+                  <l>What Muſick is this which from you I do hear?</l>
+                  <l>It tickles my fancy, and pleaſes my ear;</l>
+                  <l>Your good admonition I willingly take,</l>
+                  <l>But firſt ſet me ſee you thoſe follies forſake:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>For 'tis known at this day you've a wife and a miſs,</hi>
+                     </l>
+                     <l>
+                        <hi>The one is your drudge, and the other you kiſs.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <lg>
+                  <l>But ſireah, how dare you ſpeak thus to my face?</l>
+                  <l>Your ſides I will b<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ng if you do me diſgrace,</l>
+                  <l>Suppoſe what you ſay does appear to be true;</l>
+                  <l>Yet ſure I ſhould not be told on it by you:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Give over betimes then before 'tis too late</hi>
+                     </l>
+                     <l>
+                        <hi>And I'le ſtrive for to get thee a handſom young mate.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Son.</speaker>
+               <lg>
+                  <l>You know I am young, and perhaps may be wild,</l>
+                  <l>Which makes it well known that I am your own child</l>
+                  <l>You every day to the Tavern do go,</l>
+                  <l>And at night come home drunk with a Neighbor, or ſo,</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>And 'tis known at this day you've a wife and a miſs,</hi>
+                     </l>
+                     <l>
+                        <hi>The one is your drudge, and the other you kiſs.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <lg>
+                  <l>Good Wine is moſt proper for us that are old,</l>
+                  <l>It inlivens and comforts our bloods that are cold,</l>
+                  <l>And to keep a young Miſs I account it no harm,</l>
+                  <l>For a young handſom bed-fellow keeps a man warm:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>But youngman be wiſe before 'tis too late,</hi>
+                     </l>
+                     <l>
+                        <hi>And I'le ſtrive f<gap reason="illegible: missing" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>r to get you a handſome young mate</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Son.</speaker>
+               <lg>
+                  <l>You ſay you drink Wine 'cauſe blood is grown cold,</l>
+                  <l>And I'le drink, that by drinking I ne'r may be old,</l>
+                  <l>For he that with <hi>Bacchus</hi> doth daily engage</l>
+                  <l>Shall ever be young, and ne'r ſuffer old age:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>But 'tis known at this day you've a wife and a miſs,</hi>
+                     </l>
+                     <l>
+                        <hi>My Mother's your drudge, <gap reason="illegible: damage" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nd the Harlot you kiſs.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <pb n="167" facs="tcp:183345:1"/>
+               <!-- PDF PAGE 4 -->
+               <speaker>Father.</speaker>
+               <lg>
+                  <l>You ſawcy young Raſcall, my neighbours can tell</l>
+                  <l>That of all other women your mother lives well;</l>
+                  <l>My care and induſtry ever was ſuch,</l>
+                  <l>To give her ſufficient, and never to grudge;</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>But youngman be you wiſe before 'tis too late,</hi>
+                     </l>
+                     <l>
+                        <hi>And I'le ſtrive for to get you a handſom young mate.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Son.</speaker>
+               <lg>
+                  <l>By your favour, good Father, 'tis very well known</l>
+                  <l>That 'twill ne'r out o'th' fleſh when 'tis bred in the bone,</l>
+                  <l>Therefore I adviſe you your labour to ſave,</l>
+                  <l>For without your good help many Miſſes I have:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>But 'tis known at this day you've a wife and a miſs,</hi>
+                     </l>
+                     <l>
+                        <hi>My mother's your drudge, and the Harlot you kiſs.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <lg>
+                  <l>Oh impudent villain! what, doſt thou confeſs</l>
+                  <l>That thou doſt keep Harlots? and wilt do no leſs;</l>
+                  <l>Come hither my youngſter, for thee I will geld,</l>
+                  <l>Leſt my name by thy Baſtards be hereafter upheld;</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Yet if you'l be wiſe now before 'tis too late,</hi>
+                     </l>
+                     <l>
+                        <hi>I'le ſtrive for to get thee a handſom young mate.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Son.</speaker>
+               <lg>
+                  <l>I have told you, kind Sir, I have Mates three or four,</l>
+                  <l>And if I do want, can have more the next hour,</l>
+                  <l>But if yours don't pleaſe you, I'le get you another,</l>
+                  <l>That I'le warrant you far ſhall out-frolick the other:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>For 'tis known at this day you've a wife and a miſs,</hi>
+                     </l>
+                     <l>
+                        <hi>My mother's your drudge, and the Harlot you kiſs.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <lg>
+                  <l>But Son, you miſtake me when I ſpeak of a mate,</l>
+                  <l>I mean a good wife with a handſome eſtate,</l>
+                  <l>Leave off thoſe women, and I'le do the ſame,</l>
+                  <l>For I find they will ruine Purſe, Perſon, and Fame;</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>And if now you'l grow wiſe before 'tis too late,</hi>
+                     </l>
+                     <l>
+                        <hi>I'le ſtrive for to get you an honeſt young mate.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Son.</speaker>
+               <lg>
+                  <l>Theſe words may prevaile, if your deeds be the ſame,</l>
+                  <l>But firſt let me ſee you forſake the old game;</l>
+                  <l>Turn off your young wench and to my Mother be kind</l>
+                  <l>And in your own ſteps I will walk, you ſhall find:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>For now at this day you've a wife and a miſs,</hi>
+                     </l>
+                     <l>
+                        <hi>My mother's your drudge, and the Harlot you kiſs.</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Father.</speaker>
+               <lg>
+                  <l>Well Son, a lewd woman's a deſperate thing,</l>
+                  <l>And a Whore to your perſon much danger will bring;</l>
+                  <l>Though it does not become me to tell what I've done,</l>
+                  <l>Yet I now will reform and adviſe you my Son:</l>
+                  <lg type="refrain">
+                     <l>
+                        <hi>Now prithee grow wiſer before 'tis too late,</hi>
+                     </l>
+                     <l>
+                        <hi>And I'le ſtrive for to get thee a handſom young mate</hi>
+                     </l>
+                  </lg>
+               </lg>
+            </sp>
+         </div>
+      </body>
+   </text>
+</TEI>
